@@ -63,7 +63,6 @@ MidJourney → Cria visuais simbólicos de luz, caminho, fogo interior e renasci
 
 CapCut → Monta a obra final, unindo narrativa, som e imagem em harmonia.
 
-📁 Estrutura do Projeto
 📁 o-gatilho-final/
 ├── roteiro_estoico.txt
 ├── audio_final.mp3
