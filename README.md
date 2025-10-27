@@ -44,50 +44,48 @@ o-gatilho-final/
 │   ├── prompt_elevenlabs.md
 │   └── prompt_midjourney.md
 └── README.md                 # este arquivo
+'''
 
-Processo de criação (resumido)
+## Processo de criação (resumido)
 
-Roteiro (ChatGPT)
+### 🧠 Roteiro (ChatGPT)
+- Gerar texto com ~5–7 minutos de leitura em tom reflexivo / estoico.
 
-Gerar texto com ~5–7 minutos de leitura em tom reflexivo/estoico.
+### 🎙️ Voz (ElevenLabs)
+- Escolher timbre sereno; ajustar pausas e ênfases; exportar `.mp3`.
 
-Voz (ElevenLabs)
+### 🌅 Visuais (MidJourney)
+- Criar capa e imagens simbólicas (luz/sombra, caminho, despertar).
 
-Escolher timbre sereno; ajustar pausas e ênfases; exportar .mp3.
+### 🎬 Edição (CapCut)
+- Sincronizar áudio + imagens + trilha suave; adicionar legendas; exportar vídeo.
 
-Visuais (MidJourney)
+---
 
-Criar capa e imagens simbólicas (luz/sombra, caminho, despertar).
+## Prompts sugeridos
 
-Edição (CapCut)
+### ChatGPT — roteiro
+> "Escreva um roteiro narrativo e poético para um episódio de podcast chamado 'O Gatilho Final'. Baseie-se no estoicismo (controle interno, aceitação, virtude). Tom sereno e reflexivo. Duração aproximada: 5–7 minutos. Estruture com introdução, desenvolvimento (um momento de virada concreto) e encerramento com chamada à ação introspectiva."
 
-Sincronizar áudio + imagens + trilha suave; adicionar legendas; exportar vídeo.
+### ElevenLabs — voz
+> "Narre o texto com entonação calma e contida, pausas deliberadas em frases de impacto. Tom: autoritário mas acolhedor. Velocidade média-baixa."
 
-Prompts sugeridos
-ChatGPT — roteiro
+### MidJourney — imagem da capa
+> "Minimalist cinematic image: single figure standing at the threshold between shadow and light, sunrise background, classical composition, soft film grain — inspired by Stoic philosophy."
 
-"Escreva um roteiro narrativo e poético para um episódio de podcast chamado 'O Gatilho Final'. Baseie-se no estoicismo (controle interno, aceitação, virtude). Tom sereno e reflexivo. Duração aproximada: 5–7 minutos. Estruture com introdução, desenvolvimento (um momento de virada concreto) e encerramento com chamada à ação introspectiva."
+---
 
-ElevenLabs — voz
+## Publicação
+- **Áudio:** Spotify for Podcasters, Apple Podcasts, etc.  
+- **Vídeo:** YouTube (versão contemplativa com imagens estáticas/animadas).  
+- **Clipes:** TikTok / Instagram Reels — cortes com frases de impacto.
 
-"Narre o texto com entonação calma e contida, pausas deliberadas em frases de impacto. Tom: autoritário mas acolhedor. Velocidade média-baixa."
+---
 
-MidJourney — imagem da capa
+## Licença
+MIT License — consulte o arquivo `LICENSE` do repositório para o texto completo.
 
-"Minimalist cinematic image: single figure standing at the threshold between shadow and light, sunrise background, classical composition, soft film grain — inspired by Stoic philosophy."
+---
 
-Publicação
-
-Áudio: Spotify for Podcasters, Apple Podcasts, etc.
-
-Vídeo: YouTube (versão contemplativa com imagens estáticas/animadas).
-
-Clipes: TikTok / Instagram Reels — cortes com frases de impacto.
-
-Licença
-
-MIT License — consulte o arquivo LICENSE do repositório para o texto completo.
-
-Créditos
-
-Roteiro, voz, imagens e edição produzidos com: ChatGPT, MidJourney, ElevenLabs, CapCut.
+## Créditos
+Roteiro, voz, imagens e edição produzidos com: **ChatGPT**, **MidJourney**, **ElevenLabs**, **CapCut**.
