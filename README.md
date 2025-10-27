@@ -1,4 +1,4 @@
-🎙️ O Gatilho Final — Um Despertar Estoico
+**🎙️ O Gatilho Final — Um Despertar Estoico
 
 💡 Sobre o Projeto
 
@@ -124,3 +124,4 @@ Roteiro, voz, imagem e edição produzidos com ferramentas de IA.
 O gatilho final não é um acontecimento, é uma decisão silenciosa.
 
 A partir deste instante, você pode escolher ser livre.”
+**
