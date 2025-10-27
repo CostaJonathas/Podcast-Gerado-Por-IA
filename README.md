@@ -46,7 +46,7 @@ o-gatilho-final/
 └── README.md                 # este arquivo
 ```
 
-## Processo de criação (resumido)
+## Processo de criação
 
 ### 🧠 Roteiro (ChatGPT)
 - Gerar texto com ~5–7 minutos de leitura em tom reflexivo / estoico.
