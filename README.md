@@ -30,7 +30,7 @@
 ---
 
 ## Estrutura do projeto
-```text
+
 o-gatilho-final/
 ├── roteiro_estoico.txt        # roteiro final (texto a ser narrado)
 ├── audio_final.mp3           # narração exportada (ElevenLabs)
@@ -44,7 +44,7 @@ o-gatilho-final/
 │   ├── prompt_elevenlabs.md
 │   └── prompt_midjourney.md
 └── README.md                 # este arquivo
-'''
+
 
 ## Processo de criação (resumido)
 
