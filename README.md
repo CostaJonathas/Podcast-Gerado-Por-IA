@@ -1,4 +1,5 @@
 🎙️ O Gatilho Final — Um Despertar Estoico
+
 💡 Sobre o Projeto
 
 O Gatilho Final é um episódio único de podcast criado inteiramente com inteligência artificial, inspirado nos princípios do estoicismo — a filosofia que ensina a viver com propósito, serenidade e coragem diante do inevitável.
