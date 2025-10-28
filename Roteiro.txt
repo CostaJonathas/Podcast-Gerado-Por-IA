@@ -1,0 +1,97 @@
+Roteiro — O Gatilho Final
+
+Episódio único — ~5–7 minutos
+Tom: sereno, reflexivo, estoico. Voz principal: calma, pausada, com autoridade acolhedora.
+
+Instruções de produção (curtas)
+
+Voz (ElevenLabs): tom calmo, médio-grave, velocidade 0.95, pausas ligeiramente alongadas em frases de impacto.
+
+Música: ambiência piano/cordas suave, início quase inaudível, crescendo sutil no clímax e decrescendo no encerramento.
+
+SFX: som leve de passos, vento suave, clique de porta (momento decisivo).
+
+Imagens (MidJourney): tons sóbrios, luz e sombra, figura solitária no limiar entre dois caminhos.
+
+Edição (CapCut): cortes suaves, fade in/out de música, legendas sincronizadas (frases-chave em destaque).
+
+Tempo estimado por seção
+
+Abertura: 0:00–0:40 (40s)
+
+Desenvolvimento: 0:40–4:20 (3m40s)
+
+Clímax: 4:20–5:20 (1m)
+
+Conclusão e convite à prática: 5:20–6:00 (40s)
+
+Roteiro completo
+0:00 — Abertura (0:00–0:40)
+
+(Música: piano muito leve; som ambiente: vento distante.)
+
+NARRADOR (voz calma):
+“Você já sentiu, de repente, como se tudo tivesse se alinhado para mostrar uma saída? Um pequeno estalo — uma sensação íntima, tão discreta que quase passa despercebida — e, no entanto, impossível de ignorar.
+
+Este é o episódio ‘O Gatilho Final’. Hoje, vamos escutar a voz que aparece quando a vida pede uma mudança. Vamos olhar, com calma estoica, para o momento em que decidimos agir sobre aquilo que depende somente de nós.”
+
+(Pausa 1,5s)
+
+0:40 — Desenvolvimento (0:40–4:20)
+
+(Música: leves acordes, volume baixo. Imagens: pessoa sentada em penumbra, olhando janela.)
+
+NARRADOR:
+“O estoicismo nos lembra de uma distinção simples e poderosa: há coisas que podemos controlar, e há coisas que não podemos. Sofremos quando confundimos os dois.
+
+Imagine alguém vivendo dias iguais — trabalho, distrações, promessas sussurradas a si mesmo e nunca cumpridas. Um dia, uma notícia, uma conversa, ou apenas o cansaço acumulado cria um atrito — e, naquele atrito, algo estala. Não é um milagre. Não é um sinal do destino. É um pressentimento: a percepção clara de que continuar como até aqui é uma escolha.
+
+(SFX: som leve de passos; pausa 1s)
+
+Essa percepção é o gatilho. Não é a mudança em si, mas o reconhecimento daquilo que depende de nós. Epicteto disse, em essência, que a liberdade começa quando reconhecemos o que está sob nosso controle. O gatilho final é esse reconhecimento transformado em vontade.”
+
+(Pausa 1s — música sobe levemente)
+
+NARRADOR (continua):
+“O processo não precisa ser dramático. Pode ser simples: devolver um e-mail, dizer ‘não’, sair de um lugar que corrói. A virtude, para os estoicos, é agir de acordo com a razão — e a razão, às vezes, exige coragem silenciosa.
+
+Pense em um pequeno ato que você tem adiado. Agora imagine realizar esse ato. Note o corpo — a respiração, a tensão, a pequena onda de medo. Isso é natural. O estoico não busca a ausência do medo, mas a disciplina para agir apesar dele.”
+
+(Inserir trecho curto — voz secundária, “CRÍTICO INTERNO”, mais aguda, sussurrada — 8–10s)
+
+CRÍTICO INTERNO (sussurro):
+“E se der errado? E se você perder? E se não for suficiente?”
+
+(Pausa 0,8s — voltar para Narrador)
+
+NARRADOR:
+“Resposta estoica: enfrente a possibilidade do erro sabendo que o único verdadeiro fracasso é não tentar quando algo depende de você. A vitória está na prática da escolha correta, não no resultado que foge ao seu controle.”
+
+(Música: pequena elevação nos acordes; imagens: passos na trilha, luz crescente.)
+
+4:20 — Clímax (4:20–5:20)
+
+(SFX: som de porta se abrindo ou clique simbólico; música cresce um pouco mais.)
+
+NARRADOR (tom firme):
+“Agora, imagine o momento do ato. Não um filme — apenas você, respirando, fazendo o que é necessário: uma conversa, uma mudança de rota, uma inscrição, um pedido de demissão, um retorno ao estudo. O gesto é simples; o significado é vasto.
+
+O gatilho final é essa mistura de lucidez e coragem. Não é a ausência de dúvida. É a escolha de mover-se apesar dela. Marco Aurélio escreveu para si mesmo sobre a brevidade da vida e a necessidade de ocupar o tempo com o que vale. Hoje, ocupe seu tempo com o que depende de você.”
+
+(Pausa dramática 2s — som de passos firmes — música atinge leve pico e começa a descer.)
+
+5:20 — Conclusão e convite à prática (5:20–6:00)
+
+(Música diminui, retorno ao tom íntimo.)
+
+NARRADOR (suavemente):
+“Antes de encerrar, um exercício simples: feche os olhos. Respire fundo três vezes. Pense em uma ação concreta que você adia há semanas ou meses. Em uma frase curta, decida o primeiro passo — hoje, agora. Pode ser só escrever uma mensagem; pode ser abrir uma aba no site; pode ser colocar os pés no chão e respirar.
+
+Anote essa ação. Faça. Depois, observe sem julgar: o que mudou em você? O gatilho final é, muitas vezes, apenas o primeiro gesto.”
+
+(Pausa 1,5s)
+
+NARRADOR (encerramento):
+“Se gostou deste episódio, compartilhe com alguém que precise ouvir uma palavra de coragem. Se quiser, visite o repositório do projeto para os prompts e o roteiro completo. Até a próxima — e lembre-se: o que depende de você começa com um passo silencioso.”
+
+(Música: fade out suave; fim com 2s de silêncio.)
