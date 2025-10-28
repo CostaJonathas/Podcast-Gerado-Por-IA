@@ -36,13 +36,6 @@ o-gatilho-final/
 ├── audio_final.mp3           # narração exportada (ElevenLabs)
 ├── video_final.mp4           # vídeo final editado (CapCut)
 ├── capa_midjourney.jpg       # arte da capa (MidJourney)
-├── assets/
-│   ├── imagens/
-│   └── trilhas/
-├── prompts/
-│   ├── prompt_chatgpt.md
-│   ├── prompt_elevenlabs.md
-│   └── prompt_midjourney.md
 └── README.md                 # este arquivo
 ```
 
